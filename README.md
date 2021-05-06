@@ -1,2 +1,3 @@
 # xs2a
-PSD2 XS2A Client
+
+Open Source **PSD2 XS2A Client**. The current state of development is alpha.
